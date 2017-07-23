@@ -1,3 +1,4 @@
 index branch
+detect conflict
 green
 branch
