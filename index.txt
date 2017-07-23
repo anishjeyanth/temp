@@ -1,4 +1,4 @@
-index branch
+index branch 2
 detect conflict
 green
 branch
