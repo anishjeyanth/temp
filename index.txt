@@ -1,4 +1,3 @@
-
 index branch
 green
 branch
