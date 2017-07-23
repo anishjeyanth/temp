@@ -2,3 +2,4 @@ index branch 123456
 detect conflict
 green
 branch
+local
